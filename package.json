@@ -26,9 +26,9 @@
     "remark",
     "plugin"
   ],
-  "types": "types/index.d.ts",
+  "types": "index.d.ts",
   "files": [
-    "types/index.d.ts",
+    "index.d.ts",
     "index.js"
   ],
   "author": "rhysd <lin90162@yahoo.co.jp>",
